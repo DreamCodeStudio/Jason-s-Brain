@@ -1,0 +1,24 @@
+﻿  Core.cpp
+  World.cpp
+C:\Users\Michael\Desktop\BriansBrain\BriansBrain\code\Core\World\World.cpp(63): warning C4244: "Argument": Konvertierung von "unsigned int" in "T", möglicher Datenverlust
+          with
+          [
+              T=irr::f32
+          ]
+C:\Users\Michael\Desktop\BriansBrain\BriansBrain\code\Core\World\World.cpp(67): warning C4244: "Argument": Konvertierung von "unsigned int" in "T", möglicher Datenverlust
+          with
+          [
+              T=irr::f32
+          ]
+C:\Users\Michael\Desktop\BriansBrain\BriansBrain\code\Core\World\World.cpp(71): warning C4244: "Argument": Konvertierung von "unsigned int" in "T", möglicher Datenverlust
+          with
+          [
+              T=irr::f32
+          ]
+C:\Users\Michael\Desktop\BriansBrain\BriansBrain\code\Core\World\World.cpp(138): warning C4244: "Argument": Konvertierung von "time_t" in "unsigned int", möglicher Datenverlust
+C:\Users\Michael\Desktop\BriansBrain\BriansBrain\code\Core\World\World.cpp(159): warning C4018: "<=": Konflikt zwischen "signed" und "unsigned"
+C:\Users\Michael\Desktop\BriansBrain\BriansBrain\code\Core\World\World.cpp(161): warning C4018: "<=": Konflikt zwischen "signed" und "unsigned"
+C:\Users\Michael\Desktop\BriansBrain\BriansBrain\code\Core\World\World.cpp(163): warning C4018: "<=": Konflikt zwischen "signed" und "unsigned"
+  main.cpp
+  Code wird generiert...
+  BriansBrain.vcxproj -> C:\Users\Michael\Desktop\BriansBrain\x64\Debug\BriansBrain.exe
